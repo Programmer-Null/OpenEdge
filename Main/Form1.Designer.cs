@@ -37,7 +37,7 @@
             webView21.AllowExternalDrop = true;
             webView21.CreationProperties = null;
             webView21.DefaultBackgroundColor = Color.White;
-            webView21.Location = new Point(13, 28);
+            webView21.Location = new Point(-1, 27);
             webView21.Name = "webView21";
             webView21.Size = new Size(775, 23);
             webView21.TabIndex = 0;
